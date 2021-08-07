@@ -1,2 +1,2 @@
 # git-handson
- Practice repo with screen captures of all the steps
+ Create and clone repo with GitHub Desktop, resolve conflicts, with screen captures of basic steps
